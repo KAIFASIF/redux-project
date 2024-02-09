@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user",
+      "password": "password"
+    }
+  ],
+  "products": [
+    {
+      "title": "Iphone",
+      "qty": 10,
+      "id": 1,
+      "image": "iphone.jpg",
+      "price":75000
+    },
+    {
+      "title": "Laptop",
+      "qty": 20,
+      "id": 2,
+      "image": "laptop.jpg",
+      "price":65000
+    },
+    {
+      "title": "Keyboard",
+      "qty": 15,
+      "id": 3,
+      "image": "keyboard.jpg",
+      "price":2500
+    },
+    {
+      "title": "Speaker",
+      "qty": 5,
+      "id": 4,
+      "image": "speaker.jpg",
+      "price":9000
+    },
+    {
+      "title": "Bag",
+      "qty": 5,
+      "id": 5,
+      "image": "bag.jpg",
+      "price":2000
+    },
+    {
+      "title": "Head phone",
+      "qty": 5,
+      "id": 6,
+      "image": "headphone.jpg",
+      "price":5000
+    },
+    {
+      "title": "Mouse",
+      "qty": 10,
+      "id": 7,
+      "image": "mouse.jpg",
+      "price":700
+    },
+    {
+      "title": "Football",
+      "qty": 10,
+      "id": 8,
+      "image": "football.jpg",
+      "price":1500
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
